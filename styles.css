@@ -1,7 +1,11 @@
 
 /* Your CSS Code here. */
-.item{
+.holder{
 	display:flex;
-	justify-content: center;
+	flex-direction:fullscreen;
+	width:100%;
+	justify-content:center;
 	align-items:center;
+	position:center;
+	
 }
